@@ -1,41 +1,40 @@
-# 👋 Salut, moi c'est Romain (aka AxsOne)
+# 👋 Hey, I'm Romain (aka AxsOne)
 
-🎯 Développeur full-stack et DevOps basé à La Réunion  
-🚀 Étudiant à **Epitech** en 3ᵉ année | Partiellement Certifié RNCP niveau 7 en management  
-🔧 Spécialisé en **microservices**, **Kubernetes**, **CI/CD**, **Node.js** et **Next.js**
-
----
-
-## 🚀 À propos de moi
-
-Je suis passionné par le **développement logiciel**, la **scalabilité** des architectures et l'automatisation via Docker & Kubernetes.  
-J’aime bâtir des systèmes solides, modulaires, automatisés — que ce soit pour des projets personnels, scolaires ou professionnels.
-
-💼 Je mène aussi des projets structurés avec une vraie logique produit et une attention particulière au **delivery**.
+🎯 Full-stack developer & DevOps based in La Réunion  
+🚀 3rd-year student at **Epitech** | Partially RNCP level 7 certified in management  
+🔧 Specialized in **microservices**, **Kubernetes**, **CI/CD**, **Node.js**, and **Next.js**
 
 ---
 
-## 🛠️ Compétences principales
+## 🚀 About Me
 
-- **Langages :**  
+I'm passionate about **software development**, **scalable architecture**, and automation using Docker & Kubernetes.  
+I love building solid, modular, and automated systems — whether it's for personal, academic, or professional projects.
+
+💼 I also lead structured projects with a strong product logic and a clear focus on **delivery**.
+
+---
+
+## 🛠️ Main Skills
+
+- **Languages:**  
   `C++`, `Python`, `TypeScript`, `JavaScript`, `Bash`
 
-- **Frameworks & Libs :**  
+- **Frameworks & Libs:**  
   `Next.js`, `NestJS`, `Express`, `React`, `FastAPI`
 
-- **DevOps :**  
+- **DevOps:**  
   `Docker`, `Kubernetes`, `ArgoCD`, `GitLab CI`, `Jenkins`, `n8n`
 
-- **Base de données :**  
+- **Databases:**  
   `PostgreSQL`, `MongoDB`, `MySQL`, `SQLite`
 
-- **Infra & outils :**  
+- **Infra & Tools:**  
   `Proxmox`, `Nginx`, `Git`, `GitHub`, `Linux`, `TurnKey`
 
 ---
-## 🧰 Languages and Tools
 
-## 🛠️ Languages and Tools
+## 🧰 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
@@ -61,10 +60,13 @@ J’aime bâtir des systèmes solides, modulaires, automatisés — que ce soit 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Proxmox_logo.svg" height="40" alt="Proxmox"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/development/assets/images/n8n-logo.png" height="40" alt="n8n"/>
 </p>
 
+---
 
-## 📫 Me retrouver ici
+## 📫 Find Me Here
 
 <p align="center">
   <a href="mailto:romain.nacaouele@epitech.eu" target="_blank">
@@ -78,15 +80,27 @@ J’aime bâtir des systèmes solides, modulaires, automatisés — que ce soit 
   </a>
 </p>
 
-## 💡 Fun facts
+---
 
-- ⚽ Passionné de sport (foot, muscu, stree-workout)
-- 🧠 Management & leadership m’intéressent autant que la technique
-- 🔁 Fan de productivité, d’itération et d’organisation propre
+## 💡 Fun Facts
+
+- ⚽ Sports lover (football, calisthenics, weight training)
+- 🧠 I'm as passionate about leadership and management as I am about code
+- 🔁 Big fan of productivity, iteration, and clean organization
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AxsOne&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)](https://github.com/AxsOne)
+
+---
+
+## 📈 GitHub Stats & Streak
 
 ![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxsOne&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxsOne&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AxsOne&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=AxsOne&style=flat-square&color=blue)
