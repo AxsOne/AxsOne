@@ -101,6 +101,4 @@ I love building solid, modular, and automated systems — whether it's for perso
 ![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxsOne&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxsOne&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AxsOne&theme=tokyonight)
-
 ![Profile views](https://komarev.com/ghpvc/?username=AxsOne&style=flat-square&color=blue)
