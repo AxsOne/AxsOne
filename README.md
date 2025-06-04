@@ -2,7 +2,7 @@
 
 🎯 Full-stack developer & DevOps based in La Réunion  
 🚀 3rd-year student at **Epitech** | Partially RNCP level 7 certified in management  
-🔧 Specialized in **microservices**, **Kubernetes**, **CI/CD**, **Node.js**, and **Next.js**
+🔧 Specialized in **microservices**, **N8N**, **Automation** , **CI/CD**, **Node.js**, and **Next.js**
 
 ---
 
