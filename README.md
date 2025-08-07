@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Romain (aka AxsOne)
 
 🎯 Full-stack developer & DevOps based in La Réunion  
-🚀 3rd-year student at **Epitech** | Partially RNCP level 7 certified in management  
+🚀 4rd-year student at **Epitech** | Partially RNCP level 7 certified in management  
 🔧 Specialized in **microservices**, **N8N**, **Automation** , **CI/CD**, **Node.js**, and **Next.js**
 
 ---
